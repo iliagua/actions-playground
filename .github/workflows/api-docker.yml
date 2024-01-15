@@ -23,4 +23,4 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags: ilyatestnef.azurecr.io/ilyaservices:latest
+          tags: ilyatestnef.azurecr.io/ilyatest:latest
